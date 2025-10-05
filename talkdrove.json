@@ -1,0 +1,31 @@
+
+{
+"bot-name": "KINGATHUR-XD",
+  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ athur ᴋɪɴɢ",
+  "logo": "https://files.catbox.moe/juxfce.jpg",
+  "keywords": ["bot"],
+  "documentation-link": "https://athurking-pairsession.onrender.com/",
+    "owner-verification":"mufarohwenhira@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here. It starts with malvin~",
+        "value":"",
+        "required": true
+        
+      },
+      
+    "OWNER_NUMBER": {
+      "description": "Enter owner number",
+      "required": true,
+      "value": "263714740765"
+      
+       },
+      "TIMEZONE": {
+      "description": "Enter country timezone",
+      "required": true,
+      "value": "Africa/Harare"
+
+    }  
+  }
+}
